@@ -1,0 +1,17 @@
+{
+  "name": "aoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"npx tsx index.ts"
+  },
+  "keywords": [],
+  "author": "Anmol Gupta | github:ish-u",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.11.10"
+  }
+}
